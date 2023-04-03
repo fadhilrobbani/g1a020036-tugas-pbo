@@ -37,7 +37,7 @@ def add_to_list(item):
 
 > Fungsi di atas memiliki efek samping pada lingkungan program, yaitu menambahkan nilai ke dalam variabel global my_list, sehingga dapat dikatakan bukan pure function. Jika fungsi ini dipanggil dengan input yang sama, mungkin akan menghasilkan hasil yang berbeda karena efek samping pada my_list.
 
-Contoh kode programnya tentang transaksi produk:
+Contoh kode programnya tentang transaksi produk: https://github.com/fadhilrobbani/g1a020036-tugas-pbo/blob/093d4a5c2a3f8544f2defde671a7154f2c48a809/func-program.py
 
 ### Object Oriented Programming
 
