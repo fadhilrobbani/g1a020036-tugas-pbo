@@ -1,15 +1,15 @@
 # TUGAS MATA KULIAH PEMROGRAMAN BERBASIS OBJEK
 
-> Nama: Fadhilla Ilham Robbani
-> NPM : G1A020036
-> Kelas : B
-> Link sololearn python intermediete: >https://www.sololearn.com/certificates/CC-E690XXOC
+#####- Nama: Fadhilla Ilham Robbani
+#####- NPM : G1A020036
+#####- Kelas : B
+#####- Link sololearn python intermediete: >https://www.sololearn.com/certificates/CC-E690XXOC
 
 ## **Perbedaan Functional Programming dan Object Oriented Programming**
 
-> OOP (Object-Oriented Programming) dan FP (Functional Programming) adalah paradigma pemrograman yang berbeda. Pada OOP, program didefinisikan dalam bentuk objek yang dapat memiliki atribut dan metode, sementara pada FP, program didefinisikan dalam bentuk fungsi yang tidak memiliki efek samping dan menghasilkan nilai kembali. OOP berfokus pada objek dan hubungan antar objek, sedangkan FP berfokus pada komputasi dan transformasi data. OOP menggunakan konsep pewarisan dan pengkapsulan, sedangkan FP menggunakan konsep fungsi tingkat tinggi dan rekursi. OOP biasanya digunakan dalam pengembangan aplikasi berorientasi data, sementara FP lebih sering digunakan dalam pengolahan data dan analisis algoritma.
+OOP (Object-Oriented Programming) dan FP (Functional Programming) adalah paradigma pemrograman yang berbeda. Pada OOP, program didefinisikan dalam bentuk objek yang dapat memiliki atribut dan metode, sementara pada FP, program didefinisikan dalam bentuk fungsi yang tidak memiliki efek samping dan menghasilkan nilai kembali. OOP berfokus pada objek dan hubungan antar objek, sedangkan FP berfokus pada komputasi dan transformasi data. OOP menggunakan konsep pewarisan dan pengkapsulan, sedangkan FP menggunakan konsep fungsi tingkat tinggi dan rekursi. OOP biasanya digunakan dalam pengembangan aplikasi berorientasi data, sementara FP lebih sering digunakan dalam pengolahan data dan analisis algoritma.
 
-**Functional Programming**
+####**Functional Programming**
 Functional programming adalah paradigma pemrograman yang memperlakukan fungsi sebagai objek yang independen, dan menekankan pada komputasi yang deklaratif dan immutable (tidak dapat diubah). Dalam functional programming, fungsi diperlakukan seperti nilai-nilai lainnya, dapat diberikan sebagai argumen ke fungsi lainnya, atau dijadikan sebagai nilai kembali dari suatu fungsi.
 Pada functional programming, kita perlu menggunakan pure function yaitu fungsi yang:
 
@@ -29,12 +29,11 @@ Contoh yang bukan pure function:
     def add_to_list(item):
         my_list.append(item)
 
-
 > Fungsi di atas memiliki efek samping pada lingkungan program, yaitu menambahkan nilai ke dalam variabel global my_list, sehingga dapat dikatakan bukan pure function. Jika fungsi ini dipanggil dengan input yang sama, mungkin akan menghasilkan hasil yang berbeda karena efek samping pada my_list.
 
 Contoh kode programnya tentang transaksi produk:
 
-**Object Oriented Programming**
+####**Object Oriented Programming**
 OOP (Object-Oriented Programming) atau Pemrograman Berorientasi Objek adalah paradigma pemrograman yang berfokus pada konsep objek yang dapat diidentifikasi, memiliki sifat dan perilaku yang dapat didefinisikan, serta dapat berinteraksi dengan objek lain. OOP digunakan untuk memodelkan masalah dunia nyata dan memungkinkan untuk membuat program yang lebih kompleks dan mudah dimengerti.
 Python merupakan bahasa pemrograman yang mendukung OOP dan memiliki fitur-fitur berikut:
 
