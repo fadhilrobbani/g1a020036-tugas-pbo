@@ -49,4 +49,4 @@ OOP (Object-Oriented Programming) atau Pemrograman Berorientasi Objek adalah par
 4.  Polymorphism: Polymorphism atau banyak bentuk adalah kemampuan suatu objek untuk memiliki banyak bentuk atau perilaku yang berbeda-beda dalam situasi yang berbeda. Polymorphism dapat dicapai melalui inheritance dan metode overriding atau overloading.
 5.  Abstraction (Abstraksi): Konsep abstraksi memungkinkan untuk memfokuskan pada fitur penting dari suatu objek dan mengabaikan detail implementasi yang tidak penting.
 
-Contoh kode programnya tentang transaksi produk:
+Contoh kode programnya tentang transaksi produk: https://github.com/fadhilrobbani/g1a020036-tugas-pbo/blob/5ee85c1b96c020cb2400891766a4578ebc22dcd1/oop-program.py
